@@ -34,3 +34,8 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# project-specific
+secret.py
+*.pkl
+.ipynb_checkpoints
